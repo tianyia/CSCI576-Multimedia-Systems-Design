@@ -1,4 +1,5 @@
 # USC_CSCI576_Multimedia-Systems-Design
+Hw1:
 To run the code from command line, first compile with:
 
 >> javac ImageDisplay.java
